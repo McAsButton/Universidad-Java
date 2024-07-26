@@ -1,4 +1,4 @@
-public class ReglasNombresVariables {
+public class ReglasNombresVariables1 {
     public static void main(String[] args) {
         // Reglas nombres variables
         String nombreCompleto = "Juan Carlos"; // Correcto, y buenas prácticas

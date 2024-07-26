@@ -1,4 +1,4 @@
-public class TipoVar {
+public class TipoVar1 {
     public static void main(String[] args) {
         System.out.println("*** Uso de var en Java ***");
         // Sin el uso de var

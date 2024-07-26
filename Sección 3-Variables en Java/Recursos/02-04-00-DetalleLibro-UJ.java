@@ -1,4 +1,4 @@
-public class DetalleLibro {
+public class DetalleLibroa {
     public static void main(String[] args) {
         // Detalle de un Libro
         String tituloLibro = "El señor de los anillos";
