@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "Strix"
-    ]
+    ],
+    "files.exclude": {
+    "*/Recursos/*": true    
+}
 }
