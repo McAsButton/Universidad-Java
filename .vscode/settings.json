@@ -2,7 +2,7 @@
     "cSpell.words": [
         "Strix"
     ],
-    "files.exclude": {
-    "*/Recursos/*": true    
-}
+//     "files.exclude": {
+//     "*/Recursos/*": true    
+// }
 }
