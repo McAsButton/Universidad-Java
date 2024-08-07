@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaAutenticacion",
+            "request": "launch",
+            "mainClass": "SistemaAutenticacion",
+            "projectName": "Universidad-Java_5d7db697"
+        },
+        {
+            "type": "java",
+            "name": "SistemaEnvios",
+            "request": "launch",
+            "mainClass": "SistemaEnvios",
+            "projectName": "Universidad-Java_5d7db697"
+        },
+        {
+            "type": "java",
             "name": "SistemaCalificaciones",
             "request": "launch",
             "mainClass": "SistemaCalificaciones",
