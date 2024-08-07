@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SistemaCalificaciones",
+            "request": "launch",
+            "mainClass": "SistemaCalificaciones",
+            "projectName": "Universidad-Java_5d7db697"
+        },
+        {
+            "type": "java",
+            "name": "CasaEspejos",
+            "request": "launch",
+            "mainClass": "CasaEspejos",
+            "projectName": "Universidad-Java_5d7db697"
+        },
+        {
+            "type": "java",
+            "name": "TiendaLineaDescuentos",
+            "request": "launch",
+            "mainClass": "TiendaLineaDescuentos",
+            "projectName": "Universidad-Java_5d7db697"
+        },
+        {
+            "type": "java",
+            "name": "ValorPositivo",
+            "request": "launch",
+            "mainClass": "ValorPositivo",
+            "projectName": "Universidad-Java_5d7db697"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Universidad-Java_5d7db697"
+        },
+        {
+            "type": "java",
+            "name": "SentenciaIf",
+            "request": "launch",
+            "mainClass": "SentenciaIf",
+            "projectName": "Universidad-Java_5d7db697"
+        }
+    ]
+}
